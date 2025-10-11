@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:CE9FFC,100:7367F0&text=Jaeyun's%20Github&reversal=false&textBg=false&animation=twinkling&desc=OMORI_Aubrey&descAlignY=60&descAlign=80&fontAlign=50&fontAlignY=44&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:CE9FFC,100:7367F0&text=Jaeyun's%20Github&reversal=false&textBg=false&animation=twinkling&desc=OMORI-Aubrey&descAlignY=60&descAlign=80&fontAlign=50&fontAlignY=44&fontColor=ffffff" />
 </div>
 
 <!--내용 부분-->
