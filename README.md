@@ -17,16 +17,15 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/C++-3578E5.svg?style=for-the-badge&logo=cplusplus&logoColor=61DAFB" />&nbsp
-
+  <img src="https://img.shields.io/badge/go-1daabb.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/go-1daabb.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-3578E5?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
 </div>
 
