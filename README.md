@@ -9,7 +9,13 @@
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind CSS-F7F7F7.svg?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />&nbsp;
 </div>
 
 <br>
@@ -26,6 +32,8 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JAVA-E11F21.svg?style=for-the-badge&logo=java&logoColor=E11F21" />&nbsp
+  <img src="https://img.shields.io/badge/MYSQL-F29111.svg?style=for-the-badge&logo=MYSQL&logoColor=00758F" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-3578E5?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
 </div>
 
@@ -36,7 +44,7 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-1E1E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <br>
