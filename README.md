@@ -34,7 +34,13 @@
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/JAVA-E11F21.svg?style=for-the-badge&logo=java&logoColor=E11F21" />&nbsp
   <img src="https://img.shields.io/badge/MYSQL-F29111.svg?style=for-the-badge&logo=MYSQL&logoColor=00758F" />&nbsp
+<div>
+
+<br>
+  
+<div align="center">
   <img src="https://img.shields.io/badge/Flutter-3578E5?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Kotlin-F7F7F7?style=for-the-badge&logo=kotlin&logoColor=B720E9" />&nbsp
 </div>
 
 <br>
