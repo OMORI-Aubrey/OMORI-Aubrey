@@ -4,45 +4,57 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/Tailwind CSS-F7F7F7.svg?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />&nbsp;
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/C++-3578E5.svg?style=for-the-badge&logo=cplusplus&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/go-1daabb.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JAVA-E11F21.svg?style=for-the-badge&logo=java&logoColor=E11F21" />&nbsp
-  <img src="https://img.shields.io/badge/MYSQL-F29111.svg?style=for-the-badge&logo=MYSQL&logoColor=00758F" />&nbsp
-<div>
-
-<br>
+<h3 align="center">🖥️ Web 🖥️</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  </div>
   
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-3578E5?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-F7F7F7?style=for-the-badge&logo=kotlin&logoColor=B720E9" />&nbsp
-</div>
+  <br>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+    <img src="https://img.shields.io/badge/Tailwind CSS-F7F7F7.svg?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />&nbsp
+  </div>
+</h3>
 
+<br>
+<br>
+
+<h3 align="center">📱 App 📱</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Flutter-3578E5?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Kotlin-F7F7F7?style=for-the-badge&logo=kotlin&logoColor=B720E9" />&nbsp
+  </div>
+</h3>
+
+<br>
+<br>
+
+<h3 align="center">📚 etc 📚</h3>
+  <div align="center">
+    <img src="https://img.shields.io/badge/MYSQL-F29111.svg?style=for-the-badge&logo=MYSQL&logoColor=00758F" />&nbsp
+  </div>
+  
+  <br>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+    <img src="https://img.shields.io/badge/JAVA-E11F21.svg?style=for-the-badge&logo=java&logoColor=E11F21" />&nbsp
+  <div>
+  
+  <br>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />&nbsp
+    <img src="https://img.shields.io/badge/C++-3578E5.svg?style=for-the-badge&logo=cplusplus&logoColor=61DAFB" />&nbsp
+    <img src="https://img.shields.io/badge/go-1daabb.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp
+  </div>
+</h3>
+
+<br>
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
