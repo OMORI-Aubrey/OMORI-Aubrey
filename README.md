@@ -27,6 +27,7 @@
   <div align="center">
     <img src="https://img.shields.io/badge/Flutter-3578E5?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Kotlin-F7F7F7?style=for-the-badge&logo=kotlin&logoColor=B720E9" />&nbsp
+        <img src="https://img.shields.io/badge/jetpack compose-D7EFFE?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" />&nbsp
   </div>
 </h3>
 
