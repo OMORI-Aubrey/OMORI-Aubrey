@@ -84,6 +84,16 @@
   <img src="https://img.shields.io/badge/Android Studio-2C2C32.svg?style=for-the-badge&logo=android&logoColor=3DDC84" />&nbsp
 </div>
 
+<br>
+<br>
+
+<h3 align="center">🤖 AI 🤖</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=F8F7F2" />&nbsp
+  <img src="https://img.shields.io/badge/Claude Code-1A1918.svg?style=for-the-badge&logo=ClaudeCode&logoColor=D97757" />&nbsp
+  <img src="https://img.shields.io/badge/ChatGPT-FAFAFA.svg?style=for-the-badge&logo=ChatGPT&logoColor=FFFFFF" />&nbsp
+</div>
+
 <!--하단 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7367F0,100:CE9FFC&section=footer" />
